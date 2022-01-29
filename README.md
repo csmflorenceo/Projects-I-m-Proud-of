@@ -6,7 +6,7 @@
 
 ### Hi there 👋  
 
-My Name is Florence Olumodimu. I am an experienced lean agile practitioner, professional scrum master, SAFe Scrum Master, business analyst, Data Analyst and Kanban management professiona.
+My Name is Florence Olumodimu. I am an experienced lean agile practitioner, professional scrum master, SAFe Scrum Master, Business Analyst, Data Analyst and Kanban Management Professional.
 
   
  Data Analyst Software: PowerBI, Tableau
